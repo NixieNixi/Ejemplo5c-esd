@@ -1,6 +1,24 @@
 // Ejemplo5.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
 
+
+/*
+ * Universidad de El Salvador (UES)
+ * Facultad de Ingeniería y Arquitectura (FIA)
+ * Escuela de Ingeniería de Sistemas Informaticos (EISI)
+ * Estructuras de Datos (ESD)
+ * Ciclo 02-2025
+ *
+ * Ejemplo 1: Paso de parámetros por valor
+ * Realizado en: Lenguaje de Programación C++
+ *
+ * Praticado por: NixieNixi
+ * Fecha: 05/08/2025
+ *
+ * Descripción: Demuestra cómo los parámetros pasados por valor
+ * pueden modificarse dentro de una función sin afectar la variable original.
+ */
+
 #include <iostream>
 using namespace std;
 void DemoLocal(int valor)
